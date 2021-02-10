@@ -1,5 +1,9 @@
 # How to use?
 
+Use the official snapshot of the Fdr blockchain : 
+
+https://fdreserve.com/downloads/snapshot.zip
+
 # Windows:
 
 When  you download the file. you have to move the folder of the coin and unzip to:
@@ -13,6 +17,10 @@ start the Qt again
 When  you download the file. you have to move the folder of the coin:
 
 ```
+/home/$user/.fdreserve
+
+Or 
+
 /root/.fdreserve
 ```
 
